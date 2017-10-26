@@ -14,7 +14,7 @@
     "api"
   ],
   "author": "John Bailon",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "superagent": "^3.8.0"
   }
