@@ -17,5 +17,9 @@
   "license": "MIT",
   "dependencies": {
     "superagent": "^3.8.0"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/johnbailon/unionbankph.git"
   }
 }
